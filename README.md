@@ -1,3 +1,5 @@
-# obsidian_iot
+## Instruction
 
-Hello, hello?
+After cloning, run this command. 
+
+git update-index --assume-unchanged .obsidian/workspace.json
