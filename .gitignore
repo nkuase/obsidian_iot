@@ -1,4 +1,6 @@
 .obsidian/cache
+/.obsidian/plugins/recent-files-obsidian/data.json
+
 .DS_Store
 .trash/
 
@@ -209,3 +211,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
