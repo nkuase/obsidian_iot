@@ -1,1 +1,28 @@
-{}
+{
+  "trashOption": "local",
+  "attachmentFolderPath": "./_attachments",
+  "promptDelete": false,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "showIndentGuide": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "smartIndentList": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "uriCallbacks": true,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": false,
+  "useTab": false,
+  "tabSize": 4
+}

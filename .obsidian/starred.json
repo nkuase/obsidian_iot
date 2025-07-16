@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Topics (2022)",
+      "path": "Now/Topics (Years).md"
+    },
+    {
+      "type": "file",
+      "title": "Building a Second Brain",
+      "path": "System/Building a Second Brain.md"
+    },
+    {
+      "type": "file",
+      "title": "Reading Theories",
+      "path": "System/Reading Theories.md"
+    },
+    {
+      "type": "file",
+      "title": "My Life after Tenure",
+      "path": "Now/My Life after Tenure.md"
+    }
+  ]
+}

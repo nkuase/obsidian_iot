@@ -9,7 +9,7 @@ in:
 
 ---
 [DHT11 basic temperature-humidity sensor + extras : ID 386 : Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/product/386)
-![[CleanShot 2024-07-15 at 13.15.20@2x.png | 300]]
+![[DHT11 Temperature Sensor.jpg| 300]]
 Temp and Humidity
 
 * A module with a temperature/humidity sensor type DHT11, Temperature range:

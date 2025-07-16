@@ -1,0 +1,152 @@
+.cm-header-1, .markdown-preview-view h1{
+color: var(--color-base-90);
+font-family: 'Calibri', sans-serif !important; 
+}
+
+.cm-header-2, .markdown-preview-view h2 {
+color: var(--color-base-70); 
+font-family: 'Calibri', sans-serif !important;
+}
+
+.cm-header-3, .markdown-preview-view h3 {
+color: navy;
+}
+
+.cm-header-4, .markdown-preview-view h4 {
+color: blue;
+}
+
+.cm-header-5, .markdown-preview-view h5 {
+color: var(--color-blue);
+}
+
+.cm-header-6, .markdown-preview-view h6 {
+color: var(--color-purple);
+}
+
+/* Editor view 
+   Only the color seems to be updated
+*/
+.cm-header-1, .markdown-edit-view h1 {
+color: var(--color-red);
+font-family: 'Calibri', sans-serif !important;
+}
+
+.cm-header-2, .markdown-edit-view h2 {
+color: var(--color-green);
+font-family: 'Calibri', sans-serif !important;
+}
+
+.cm-header-3, .markdown-edit-view h3 {
+color: var(--color-purple);
+font-family: 'Calibri', sans-serif !important;
+}
+
+.cm-content {
+color: var(--color-black);
+font-family: 'Calibri', sans-serif !important;
+}
+
+/* Reduce size of icons in file explorer header*/
+.nav-action-button svg {
+  width: 12px !important;
+  height: 12px !important;
+  /* Optional: scale icons uniformly */
+  /* transform: scale(0.8); */
+}
+
+/* The ">" size in the nav */
+.nav-folder-title svg,
+.nav-file-title svg {
+  width: 11px !important;
+  height: 14px !important;
+}
+
+/* Change the size of ribbon size */
+.side-dock-ribbon svg {
+    width: 16px !important;
+    height: 16px !important;	
+}
+
+/* This is for adjusting left pane width 
+.workspace-split.mod-left-split {
+  width: 250px !important; 
+}
+*/
+
+/*
+  Highlight the active tab
+*/
+.workspace-leaf {
+    position: relative;
+}
+
+.workspace-leaf.mod-active .view-content::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 3px solid #008DAA;
+    border-radius: 6px;
+    pointer-events: none;
+    z-index: 10;
+}
+
+/*
+	Quotation
+*/
+
+/* Remove background, border, and rounded corners from callouts and blockquotes */
+
+/* For blockquotes in editor mode */
+.cm-quote {
+  background: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Table width 
+.table-view-table td:nth-child(1) {
+  max-width: 200px;
+}
+*/
+.table-view-table td:nth-child(2) {
+  min-width: 100px;
+}
+.table-view-table td:nth-child(3) {
+  min-width: 120px;
+}
+.table-view-table td:nth-child(4) {
+  min-width: 120px;
+}
+
+/*
+https://www.perplexity.ai/search/1e4842c9-fa52-4c0e-aee3-c589f05b69d0
+.markdown-preview-view .internal-link,
+.dataview .internal-link {
+  color: red !important;
+  font-size: 1.2em;
+}
+*/
+
+/* Wrap long file and folder names in the file explorer */
+.nav-file-title,
+.nav-folder-title,
+.nav-file-title-content,
+.nav-folder-title-content {
+  white-space: normal;
+  width: auto;
+}
+
+body {
+   --file-line-width: 1200px;
+}
+
+.no-inline .inline-title {
+   display: none;
+}

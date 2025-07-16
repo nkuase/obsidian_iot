@@ -1,41 +1,74 @@
 {
   "main": {
-    "id": "7073056903b4b8db",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "d939704939a14c10",
+        "id": "6235135da0725de8",
         "type": "tabs",
         "children": [
           {
-            "id": "34b1e3b2b56d27a4",
+            "id": "3d50773de2c26070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/B/Back Number/Back Number.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Back Number"
+            }
+          },
+          {
+            "id": "853d68f29fcff3a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DHT11 Temperature Sensor/DHT11 Temperature Sensor.md",
                 "mode": "preview",
-                "source": false
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "DHT11 Temperature Sensor"
             }
+          },
+          {
+            "id": "cd958e1e5cef8b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHT11 Temperature Sensor/hello.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "hello"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c42c9025538c6951",
+    "id": "6129717abab15823",
     "type": "split",
     "children": [
       {
-        "id": "0d106b6d55aa164f",
+        "id": "ae117e99b451dbf1",
         "type": "tabs",
+        "dimension": 62.525050100200396,
         "children": [
           {
-            "id": "ce0b167d49280f4f",
+            "id": "92339cd6b944a666",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +81,7 @@
             }
           },
           {
-            "id": "a2c07db1c2da8187",
+            "id": "526485a597c20f03",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +98,7 @@
             }
           },
           {
-            "id": "1ac770c30db52513",
+            "id": "233550c5b73df5a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +106,56 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ebd168ed04da42f0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e0b7afa0288eeaa",
+        "type": "tabs",
+        "dimension": 37.4749498997996,
+        "children": [
+          {
+            "id": "3489ab51f6bd5c47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 300
   },
   "right": {
-    "id": "13b076f7b1387ee5",
+    "id": "21e876a0bafde4f8",
     "type": "split",
     "children": [
       {
-        "id": "d58d8ebb55a45936",
+        "id": "db6667fb5e9c471f",
         "type": "tabs",
+        "dimension": 59.61038961038961,
         "children": [
           {
-            "id": "af039d34b93b5f69",
+            "id": "1fec61ef598e49de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DHT11 Temperature Sensor/DHT11 Temperature Sensor.md",
+                "file": "Calendar/2025/Daily/2025-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +165,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DHT11 Temperature Sensor"
+              "title": "Backlinks for 2025-06-21"
             }
           },
           {
-            "id": "cdecb7f071937684",
+            "id": "3758ae56ddf59a2f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DHT11 Temperature Sensor/DHT11 Temperature Sensor.md",
+                "file": "DHT11 Temperature Sensor/hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DHT11 Temperature Sensor"
+              "title": "Outgoing links from hello"
             }
           },
           {
-            "id": "5622ff2bed7d9af3",
+            "id": "2d9484fa2f1a41ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +198,48 @@
             }
           },
           {
-            "id": "b569e70257ef3eac",
+            "id": "46d26f503c47e891",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DHT11 Temperature Sensor/DHT11 Temperature Sensor.md",
+                "file": "DHT11 Temperature Sensor/hello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DHT11 Temperature Sensor"
+              "title": "Outline of hello"
             }
           },
           {
-            "id": "cf63ce464e4bd2f7",
+            "id": "bd3a85f019d8f431",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "90a386037fa73d81",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "DHT11 Temperature Sensor/hello.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for hello"
+            }
+          },
+          {
+            "id": "356e0e420aa7499c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,35 +249,116 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "4a4b267f4cde18db",
+        "type": "tabs",
+        "dimension": 40.38961038961039,
+        "children": [
+          {
+            "id": "63f612290d08b79e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "DHT11 Temperature Sensor/hello.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6147386076544853,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of hello"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": true,
+      "quickadd:QuickAdd": false,
+      "vscode-editor:Create Code File": true,
+      "marp-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce0b167d49280f4f",
+  "active": "3758ae56ddf59a2f",
   "lastOpenFiles": [
-    "DHT11 Temperature Sensor/code/adidax-dht11-b7fbbcd/dht11.h",
-    "DHT11 Temperature Sensor/code/adidax-dht11-b7fbbcd/dht11.cpp",
-    "DHT11 Temperature Sensor/code/adidax-dht11-b7fbbcd/README.md",
-    "DHT11 Temperature Sensor/pic/DHT11 Temperature Sensor_arduino.png",
-    "DHT11 Temperature Sensor/pic/DHT11 Temperature Sensor.jpg",
-    "DHT11 Temperature Sensor/code/adidax-dht11-b7fbbcd",
-    "DHT11 Temperature Sensor/code/DHT11.ino",
-    "DHT11 Temperature Sensor/pic",
-    "DHT11 Temperature Sensor/code",
-    "DHT11 Temperature Sensor/DHT11 Temperature Sensor.md",
-    "DHT11 Temperature Sensor"
+    "DHT11 Temperature Sensor/hello.md",
+    "Extra/Lib/Script/MyFunctions.js",
+    "Extra/Lib/QuickAdd Macro/YearTopic.js",
+    "Extra/Lib/QuickAdd Macro/DirGen.js",
+    "Extra/Lib/QuickAdd Macro/AlphaTopicTitle.js",
+    "Extra/Lib/CustomJS/topicSearch.js",
+    "Extra/Lib/CustomJS/sourceCard.js",
+    "Extra/Lib/CustomJS/money.js",
+    "Extra/Lib/CustomJS/mocGen.js",
+    "Extra/Lib/Script",
+    "Extra/Lib/QuickAdd Macro",
+    "Extra/Templates/aMoC Template.md",
+    "Extra/Templates/Youtube Template.md",
+    "Extra/Templates/Yearly Template.md",
+    "Extra/Templates/YearTopic Template.md",
+    "Extra/Templates/Weekly Template.md",
+    "Extra/Templates/TopicCalendar Template.md",
+    "Extra/Templates/Topic Template.md",
+    "Extra/Templates/Space Template.md",
+    "Extra/Templates/Source Card Template.md",
+    "Extra/Templates/Song Template.md",
+    "Extra/Templates/Quarterly Template.md",
+    "Extra/Templates/Project Template.md",
+    "Extra/Templates/Paper Reading Template.md",
+    "Extra/Templates/Online Purchase Template.md",
+    "Extra/Templates/Note Template.md",
+    "Extra/Templates/Music Template.md",
+    "Extra/Templates/Monthly Template.md",
+    "Extra/Templates/Marp Smalltalk Page Template.md",
+    "Extra/Templates/Marp Practice Page Template.md",
+    "Extra/Templates/Marp Page Template.md",
+    "Extra/Templates/Marp Note Template.md",
+    "Extra/Templates/Marp Course Project Page Template.md",
+    "Extra/Templates/Idea Card Template.md",
+    "Extra/Templates/HT Template.md",
+    "Source/__/37 Sensor Kit Ver 1/DHT11 Temperature Sensor/pic/DHT11 Temperature Sensor_arduino.png",
+    "Source/__/37 Sensor Kit Ver 1/DHT11 Temperature Sensor/pic/8187f1a6-b715-4b52-8c11-1507c3e80da4.png",
+    "Source/__/37 Sensor Kit Ver 1/DHT11 Temperature Sensor/pic/DHT11 Temperature Sensor.jpg",
+    "Source/__/37 Sensor Kit Ver 1/DHT11 Temperature Sensor/pic/d49cf318-9287-4873-aca7-726c0c942e3f.jpg",
+    "Extra/images/2025/07/Eagle Filer-2025-07-14-10-11-00.png",
+    "Extra/images/2025/07/2025-07-14-2025-07-14-10-08-49.png",
+    "Extra/images/2025/07/2025-07-14-2025-07-14-10-06-34.png",
+    "Extra/images/2025/07/T2025-001 Washington DC - Visit John-2025-07-09-17-28-32.png",
+    "Extra/images/2025/07/T2025-001 Washington DC - Visit John-2025-07-09-17-25-29.jpeg",
+    "Extra/images/2025/07/T2025-001 Washington DC - Visit John-2025-07-09-17-22-06.jpeg"
   ]
 }

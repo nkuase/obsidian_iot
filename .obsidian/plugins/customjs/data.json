@@ -1,0 +1,7 @@
+{
+  "jsFiles": "sourceCard.js, mocGen.js, moneyJS, topicSearch.js",
+  "jsFolder": "Extra/Lib/CustomJS/",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [],
+  "rerunStartupScriptsOnFileChange": false
+}

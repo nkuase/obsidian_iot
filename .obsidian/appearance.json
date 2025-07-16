@@ -1,1 +1,16 @@
-{}
+{
+  "accentColor": "",
+  "baseFontSizeAction": false,
+  "baseFontSize": 14,
+  "cssTheme": "Prism",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "show-only-notes",
+    "obsidian"
+  ],
+  "nativeMenus": true,
+  "theme": "moonstone",
+  "showRibbon": true,
+  "translucency": true
+}

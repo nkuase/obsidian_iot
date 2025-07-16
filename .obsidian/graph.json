@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Source",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Effort",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:Calendar",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:Card",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "path:Space",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:Atlas",
+      "color": {
+        "a": 1,
+        "rgb": 6813433
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.80978860294118,
+  "lineSizeMultiplier": 0.249595523049645,
+  "collapse-forces": true,
+  "centerStrength": 0.659116124260355,
+  "repelStrength": 17.1246301775148,
+  "linkStrength": 0.449611686390533,
+  "linkDistance": 500,
+  "scale": 0.12225756384652903,
+  "close": true
+}

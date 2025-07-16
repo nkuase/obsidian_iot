@@ -1,0 +1,16 @@
+{
+  "pickerIndex": 0,
+  "noteFilterSets": [],
+  "folderFilterSets": [
+    {
+      "name": "default",
+      "rootFolder": "Extra/Obsidian Tools",
+      "includeParents": false,
+      "depth": 1,
+      "excludeFolderName": "",
+      "excludePathName": "",
+      "includeFolderName": "",
+      "includePathName": ""
+    }
+  ]
+}
