@@ -306,15 +306,16 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "omnisearch:Omnisearch": false,
-      "open-vscode:VSCode": true,
+      "open-vscode:VSCode": false,
       "quickadd:QuickAdd": false,
-      "vscode-editor:Create Code File": true,
+      "vscode-editor:Create Code File": false,
       "marp-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3758ae56ddf59a2f",
+  "active": "cd958e1e5cef8b73",
   "lastOpenFiles": [
+    "workspace.json",
     "DHT11 Temperature Sensor/hello.md",
     "Extra/Lib/Script/MyFunctions.js",
     "Extra/Lib/QuickAdd Macro/YearTopic.js",
